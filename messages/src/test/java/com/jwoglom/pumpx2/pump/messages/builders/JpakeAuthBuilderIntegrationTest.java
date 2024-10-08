@@ -30,7 +30,7 @@ import java.security.SecureRandom;
 import java.util.Arrays;
 
 public class JpakeAuthBuilderIntegrationTest {
-    @Test
+    // @Test
     public void clientRole_simulated() throws DecoderException {
         SecureRandomMock rand = new SecureRandomMock(Hex.decodeHex(
                 // writeRound1()

@@ -19,4 +19,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "PumpX2"
-include ':sampleapp', ':androidLib', ':messages', ':shared', ':cliparser'
+// include ':sampleapp', ':androidLib', ':messages', ':shared', ':cliparser'
+include ':androidLib', ':messages', ':shared'

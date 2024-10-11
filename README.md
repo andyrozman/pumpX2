@@ -1,10 +1,12 @@
 
-<a href="https://github.com/jwoglom/pumpX2/actions/workflows/android.yml">
-<img src="https://github.com/jwoglom/pumpx2/actions/workflows/android.yml/badge.svg" />
+<a href="https://github.com/andyrozman/pumpX2/actions/workflows/android.yml">
+<img src="https://github.com/andyrozman/pumpx2/actions/workflows/android.yml/badge.svg" />
 </a>
 
 [![](https://jitpack.io/v/com.atech-software/pumpX2.svg)](https://jitpack.io/#com.atech-software/pumpX2)
 
+# IMPORTANT
+No developemnet is being done in this fork. Fork was created purely for creating builds, so that development based on this library can continue for next pump (t-mobi).
 
 # PumpX2
 

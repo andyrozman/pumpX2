@@ -3,6 +3,9 @@
 <img src="https://github.com/jwoglom/pumpx2/actions/workflows/android.yml/badge.svg" />
 </a>
 
+[![](https://jitpack.io/v/com.atech-software/pumpX2.svg)](https://jitpack.io/#com.atech-software/pumpX2)
+
+
 # PumpX2
 
 API library with a reverse-engineered Bluetooth protocol for the Tandem t:slim X2.

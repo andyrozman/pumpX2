@@ -6,7 +6,7 @@
 [![](https://jitpack.io/v/com.atech-software/pumpX2.svg)](https://jitpack.io/#com.atech-software/pumpX2)
 
 # IMPORTANT
-No developemnet is being done in this fork. Fork was created purely for creating builds, so that development based on this library can continue for next pump (t-mobi).
+No development is being done in this fork. Fork was created purely for creating builds, so that development based on this library can continue for next pump (t-mobi).
 
 # PumpX2
 

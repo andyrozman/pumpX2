@@ -22,12 +22,14 @@ import com.jwoglom.pumpx2.pump.messages.response.authentication.Jpake4KeyConfirm
 import com.jwoglom.pumpx2.shared.Hex;
 
 import org.apache.commons.codec.DecoderException;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Arrays;
 
 public class JpakeAuthBuilderIntegrationTest {
-    // @Test
+    @Ignore("testing")
+    @Test
     public void clientRole_simulated() throws DecoderException {
         SecureRandomMock rand = new SecureRandomMock(Hex.decodeHex(
                 // writeRound1()
